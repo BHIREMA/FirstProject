@@ -6,7 +6,6 @@ public class SimpleClass {
 
         int a = 10;
 
-        int b = 2;
 
     }
 }
