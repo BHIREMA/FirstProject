@@ -6,7 +6,7 @@ public class SecondClass {
 
         int a = 10;
 
-        int b = 2;
+        int b = 1;
 
     }
 }
