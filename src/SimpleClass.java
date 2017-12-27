@@ -4,5 +4,7 @@ public class SimpleClass {
         System.out.println("hi");
         System.out.println("hello");
 
+        int a = 10;
+
     }
 }
